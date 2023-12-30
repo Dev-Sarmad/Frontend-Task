@@ -1,4 +1,4 @@
-# Simple Tailwind Starter
+# Frontend Task Landing page 
 
 This is a Landing page for a fictional business website project using the Tailwind CLI. I hope you love it .
 
